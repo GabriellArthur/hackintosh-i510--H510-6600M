@@ -1,0 +1,1 @@
+# hackintosh-i510-6600M
